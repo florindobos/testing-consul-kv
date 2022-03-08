@@ -1,2 +1,14 @@
-Stores__0__Address: 'abcd'
-Stores__0__Id: '21'
+BASKET_USE_DISCOUNT_LIMIT_SERVICE: 'false'
+BASKET_USE_DISCOUNT_SERVICE: 'false'
+BASKET_USE_DISCOUNT_SERVICE_ON_ITEMIZATION_ON_WORKSTATIONS: '*'
+BASKET_USE_PRICE_FINDING_SERVICE: 'false'
+ConsulOptions__DeploymentId: '321321'
+ConsulOptions__DeploymentType: store
+ConsulOptions__InUse: 'true'
+ConsulOptions__Instance: http://c321312io/
+MPOSX_STORE_ADDRESS: http://1321321
+STORE_ID: '321312'
+STORE_REGION: 312312
+Stores__0__Address: http://3123123
+Stores__0__Id: '312312'
+TRADE_ID_REQUIRED: 'true'
